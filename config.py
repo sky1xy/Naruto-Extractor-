@@ -16,4 +16,4 @@ class Config(object):
     CH_URL = "https://t.me/justfortestinggwak"
     OWNER = "https://t.me/mrcraacker"
     THUMB_URL = "https://vault.pictures/media/images/b9/ad/12/b9ad123d95cd49465fcb954d.jpg" #Replace by with your Thumb URL
-    HOST = "https://drm-api-five.vercel.app"
+    HOST = "https://api.masterapi.tech"
